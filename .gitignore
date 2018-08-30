@@ -1,0 +1,35 @@
+# Maven generated files
+**/target
+**/bin
+**/build
+**/.gradle
+/MANIFEST.MF
+
+# Compiled files
+*.class
+
+# Packages
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.zip
+
+# Eclipse files
+*.classpath
+*.project
+*.settings
+.checkstyle
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.log
+/.metadata
+/Servers
+
+# Frontend files
+/**/node_modules
+/**/.gulp-cache
+/**/jspm_packages
+/**/dist
+/devnet-core-ui/src/client/public
